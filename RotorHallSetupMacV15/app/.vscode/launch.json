@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RotorHallSetupMac",
+            "request": "launch",
+            "mainClass": "RotorHallSetupMac",
+            "projectName": "capstone_final_db752bd2"
+        },
+        {
+            "type": "java",
+            "name": "RotorHallSetupMac",
+            "request": "launch",
+            "mainClass": "RotorHallSetupMac",
+            "projectName": "capstone_final-main 2_7d3dee49"
+        }
+    ]
+}
