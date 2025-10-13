@@ -1,3 +1,6 @@
+RotorHallSetupMacV15/**/modules filter=lfs diff=lfs merge=lfs -text
+RotorHallSetupMacV15/app/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+RotorHallSetupMacV15/app/build/**/*.zip filter=lfs diff=lfs merge=lfs -text
+RotorHallSetupMacV15/**/jre-min/**/modules filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
-RotorHallSetupMacV15/**/modules filter=lfs diff=lfs merge=lfs -text
