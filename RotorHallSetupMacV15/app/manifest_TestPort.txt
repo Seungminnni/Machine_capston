@@ -1,2 +1,0 @@
-Main-Class: TestPort
-Class-Path: jSerialComm-2.9.3.jar
